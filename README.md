@@ -1,2 +1,3 @@
 # hello-world
 Repo for Assignment1
+In the Web Design course, I’d like to learn how to create clean, modern, and user-friendly websites from scratch. I want to understand how design choices impact user experience and how to use tools like HTML, CSS, and JavaScript to bring creative ideas to life. My goal is to build the confidence and skills to design websites that not only look great but also work smoothly across different devices.
